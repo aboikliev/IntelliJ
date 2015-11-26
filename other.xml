@@ -71,5 +71,6 @@
     <resource url="http://www.springframework.org/schema/beans/spring-beans-4.2.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/d831ce12_spring-beans-4.2.xsd" />
     <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/a93b54e7_spring-context.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-4.2.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/945c53e4_spring-tool-4.2.xsd" />
+    <ignored-resource url="http://www.springframework.org/schema/c" />
   </component>
 </application>
